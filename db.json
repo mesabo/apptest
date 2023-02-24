@@ -2,8 +2,5 @@
     "id":1,
     "first_name":"Sran",
     "last_name":"Blé Dave",
-    "created_at":"01-01-2023",
-     "updated_at":"01-01-2023",
-     "status":"verified",
-     "token":"O8HB8C6ENU3973JCN9P37UDHONCPY8ZIJPHPBYC83IHCBP"
+    "created_at":"01-01-2023"
 }
